@@ -12,6 +12,7 @@
 
 https://www.linkedin.com/in/sena-şen-3427701b2
 <br />
+<br />
 
 ### Languages and Tools:
 
@@ -28,7 +29,8 @@ https://www.linkedin.com/in/sena-şen-3427701b2
 	<code><img width="40" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/></code>
 </div>
 
-
+<br />
+<br />
 <br />
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=snsen0&show_icons=true&theme=radical) 
