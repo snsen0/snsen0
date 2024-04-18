@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sena Şen
-- 👀 I’m interested in React and Blockchain
-- 🌱 I’m currently learning develop .NET Framework applications
+- 👀 I’m interested in React Native
   
 <br />
 
