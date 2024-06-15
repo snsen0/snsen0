@@ -4,8 +4,8 @@
 
 ###  :point_down: Connect with me:
 
-:e-mail: engineer.senasen@gmail.com
-🔗 https://www.linkedin.com/in/sena-şen-3427701b2
+:e-mail: engineer.senasen@gmail.com <br />
+🔗 https://www.linkedin.com/in/sena-şen-3427701b2 <br />
 🔗 https://snsen0.github.io
 <br />
 <br />
