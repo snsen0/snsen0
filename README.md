@@ -1,15 +1,12 @@
 - 👋 Hi, I’m Sena Şen
 - 👀 I’m interested in React Native
   
-<br />
-
 
 ###  :point_down: Connect with me:
 
 :e-mail: engineer.senasen@gmail.com
-🔗
-
-https://www.linkedin.com/in/sena-şen-3427701b2
+🔗 https://www.linkedin.com/in/sena-şen-3427701b2
+🔗 https://snsen0.github.io
 <br />
 <br />
 
